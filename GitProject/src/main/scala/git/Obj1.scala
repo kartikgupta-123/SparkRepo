@@ -5,7 +5,7 @@ object Obj1 {
     
     println("Hello World")
     println("How are your friends")
-    println("What do you do")
+    println("What do you do?")
     
   }
   
